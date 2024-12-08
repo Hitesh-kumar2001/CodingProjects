@@ -12,7 +12,6 @@ namespace ConsoleApp1
         {
             string s = "ram";
             string s3 = "ram";
-            string s4 = "ram";
             string s5 = "ram";
         }
     }
