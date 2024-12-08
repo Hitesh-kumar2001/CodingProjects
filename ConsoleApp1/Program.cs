@@ -13,6 +13,8 @@ namespace ConsoleApp1
             string s = "ram";
             string s2 = "ram";
             string s3 = "ram";
+            string s4 = "ram";
+            string s5 = "ram";
         }
     }
 }
